@@ -1,10 +1,10 @@
-# ktmt-nhom4
+# ktmt-nhom-4
 
 Dự án đầu tiên của tôi
 
-Họ và tên : Trần Hữu Đạt
+Đặng Hưng Rin
 
-MSSV: 25119070 
+25119147
 
-Mình là Trần Hữu Đạt . Mình thích học toán. Môn thể thao yêu thích là bóng chuyền
+Quê Quảng Ngãi
 
